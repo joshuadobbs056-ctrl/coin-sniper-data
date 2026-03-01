@@ -1,1 +1,2 @@
 ts,action,sym,price,qty,notional,profit,cash,equity,score,reason
+1772405058,BUY,MOG-USD,0.0000001600,857638888.8888889551,137.22,0.00,862.78,1000.00,5,drift=0.000 mom=0.000 vol=0.0000 dd=0.000
