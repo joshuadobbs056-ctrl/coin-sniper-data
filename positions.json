@@ -1,1 +1,1 @@
-{"MOG-USD": {"entry": 1.6e-07, "qty": 857638888.888889, "stop": 1.536e-07, "peak": 1.6e-07, "opened_ts": 1772405058, "score": 5, "score_reason": "drift=0.000 mom=0.000 vol=0.0000 dd=0.000"}}
+{"MOG-USD": {"entry": 1.6e-07, "qty": 857638888.888889, "stop": 1.5856e-07, "peak": 1.6e-07, "opened_ts": 1772405058, "score": 5, "score_reason": "drift=0.000 mom=0.000 vol=0.0000 dd=0.000"}, "SYND-USD": {"entry": 0.0938, "qty": 1347.89017873595, "stop": 0.09004799999999999, "peak": 0.0938, "opened_ts": 1772405077, "score": 6, "score_reason": "drift=0.066 mom=0.029 vol=0.0074 dd=0.000"}}
