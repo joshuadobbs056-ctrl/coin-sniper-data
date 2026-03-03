@@ -1,1 +1,1 @@
-{"CTX-USD": {"entry": 0.5712, "qty": 150.0194488662085, "stop": 0.5660592, "peak": 0.5712, "opened_ts": 1772405137, "score": 5, "score_reason": "drift=0.000 mom=0.000 vol=0.0000 dd=0.000"}, "BLZ-USD": {"entry": 0.0123, "qty": 2419.2159134400417, "stop": 0.0121893, "peak": 0.0128, "opened_ts": 1772410497, "score": 5, "score_reason": "drift=0.000 mom=0.000 vol=0.0018 dd=0.000"}}
+{"CTX-USD": {"entry": 0.5712, "qty": 150.0194488662085, "stop": 0.5660592, "peak": 0.5712, "opened_ts": 1772405137, "score": 5, "score_reason": "drift=0.000 mom=0.000 vol=0.0000 dd=0.000"}}
